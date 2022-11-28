@@ -1,11 +1,10 @@
-<div display="flex" justifyContent="space-evenly">
-# <div>**Hi👋I am Avinash Kumar😎** </div> 
+# <div align="left">**Hi👋I am Avinash Kumar😎** </div> 
   
 <div align="right">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="300" />
 </div>  
   
-</div> 
+ 
 
 ### <div align="left">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
   
