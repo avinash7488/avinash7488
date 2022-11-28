@@ -1,12 +1,12 @@
-# **Hi👋I am Avinash Kumar😎**  
+# <div align="center">**Hi👋I am Avinash Kumar😎** </div> 
   
 
-<div align="center">
+<div align="right">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="300" />
 </div>  
   
 
-### <div align="center">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
+### <div align="left">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -24,7 +24,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" width="100%">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
