@@ -1,10 +1,11 @@
-# <div align="center">**Hi👋I am Avinash Kumar😎** </div> 
+<div display="flex" justifyContent="space-evenly">
+# <div>**Hi👋I am Avinash Kumar😎** </div> 
   
-
 <div align="right">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="300" />
 </div>  
   
+</div> 
 
 ### <div align="left">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
   
@@ -19,12 +20,12 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" >
+<table width="100%"><tr><td valign="top" >
 
 
 
 ### Frontend  
-<div align="center" width="100%">  
+<div align="center" >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -58,10 +59,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=avinash7488&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=avinash7488&show_icons=true&count_private=true&hide_border=true" align="right" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7488&hide_border=true&layout=compact" align="left" />  
-
+  
+</div>
 <br/>  
 
 <br/>  
