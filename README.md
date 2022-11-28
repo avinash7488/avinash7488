@@ -1,10 +1,18 @@
-### **<div align="center">I'm Avinash, a full-time MERN stack frontend web developer 👨‍💻 spent 1500+ hours and able to make a beautiful website 🚀</div>**  
+# **Hi👋I am Avinash Kumar😎**  
+  
+
+<div align="center">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="300" />
+</div>  
+  
+
+### <div align="center">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I am a fast learner😊  
   
 
 <br/>  
@@ -26,7 +34,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
 
 </td></tr></table>  
 
@@ -57,6 +64,14 @@
 
 <br/>  
 
+<br/>  
 
+## <div align="center">Thanks For Visiting 
+  
 
- 
+<div align="center">
+<img src="https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b76118e59ec81b8ddc85131ab0a080a989f498f2a24eb&rid=giphy.gif&ct=g" align="center" height="250" width="350" />
+</div>  
+</div>  
+
+<br/>  
