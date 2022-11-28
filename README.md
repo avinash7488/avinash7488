@@ -1,6 +1,6 @@
-# <div align="left">**Hi👋I am Avinash Kumar😎** </div> 
+# <div align="center">**Hi👋I am Avinash Kumar😎** </div> 
   
-<div align="right">
+<div align="center">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="300" />
 </div>  
   
@@ -19,9 +19,6 @@
 
 
 ## My Skill Set  
-<table width="100%"><tr><td valign="top" >
-
-
 
 ### Frontend  
 <div align="center" >  
@@ -34,8 +31,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
@@ -58,9 +53,9 @@
 
 
 ## Github Stats  
-<div ><img src="https://github-readme-stats.vercel.app/api?username=avinash7488&show_icons=true&count_private=true&hide_border=true" align="right" />  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=avinash7488&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7488&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7488&hide_border=true&layout=compact" align="center" />  
   
 </div>
 <br/>  
