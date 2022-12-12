@@ -62,12 +62,3 @@
 
 <br/>  
 
-## <div align="center">Thanks For Visiting </div>
-  
-
-<div align="center">
-<img src="https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b76118e59ec81b8ddc85131ab0a080a989f498f2a24eb&rid=giphy.gif&ct=g" align="center" height="250" width="350" />
-</div>  
-
-
-<br/>  
