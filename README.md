@@ -37,7 +37,7 @@
 
 ## Connect with me  
 <div align="center">
- <a href="avi064448@gmail.com" target="_blank">
+ <a href="[avi064448@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%4330.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"  />
 </a>
 <a href="https://twitter.com/AVINASH67568935" target="_blank">
