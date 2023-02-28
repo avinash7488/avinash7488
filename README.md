@@ -6,7 +6,7 @@
   
  
 
-### <div align="left">A full-time MERN stack frontend web developer 👨‍💻 I have 1500+ hours experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
+### <div align="left">A full-time Full Stack web developer with 1500+ hours of experience on coding and  able to make a beautiful responsive website 🚀Coding is my passion</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
