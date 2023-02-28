@@ -13,7 +13,7 @@
   
 
 - ⚡ Fun fact: I am a fast learner😊 
-- ## <a href="https://drive.google.com/file/d/1CDOj2St6heEyn6CIl0UbX4XLgG90xi4c/view?usp=sharing" target="_blank" height="50" font-size="100">Resume</a>
+- ## <a href="https://drive.google.com/file/d/1CDOj2St6heEyn6CIl0UbX4XLgG90xi4c/view?usp=sharing" target="_blank" height="50" font-size="100" download >Resume</a>
   
 
 <br/>  
